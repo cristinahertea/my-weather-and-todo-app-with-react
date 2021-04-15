@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'myFont';
+  src: url('./font/SairaCondensed-Black.ttf');
+  font-style: normal;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
